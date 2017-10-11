@@ -1,0 +1,10 @@
+.navbar-default .navbar-nav>li>a {
+  color: red;
+}
+
+.navbar navbar-default {
+  margin: 0;
+  background-color: blue;
+
+
+}
